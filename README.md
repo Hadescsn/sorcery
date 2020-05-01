@@ -6,3 +6,4 @@ contributeurs:
 AUBERT Sébastien
 AUBERT Paul
 LucProfit
+Cuisinier Hadès
